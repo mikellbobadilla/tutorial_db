@@ -1,33 +1,10 @@
-<html>
-<style> 
-:root{
-    --primary-title: #ffd369;
-    --head-title: #f05454;
-    --article-title: #21e6c1;
-}
-.head-title{
-    color: var(--head-title)
-}
-.article-title{
-    color: var(--article-title);
-}
-.title_db{
-    color: var(--primary-title);
-}
-
-mark{
-    color: white;
-}
-</style>
-
-<mark>
-<h1 class="head-title">Steps to Work on Database</h1>
+<h1 style="color: #f05454;">Steps to Work on Database</h1>
 
 <!-- # Steps to Work on Database -->
 
-<h2 class="article-title">Installation</h2>
+<h2 style="color: #21e6c1;">Installation</h2>
 
-<h3 class="title_db">postgresql</h3>
+<h3 style="color: #ffd369;">postgresql</h3>
 
 **For Ubuntu 22-LTS**:
 
@@ -82,6 +59,3 @@ Allowing permissions a user:
 ```bash
 alter user <user_created> with superuser;
 ```
-
-<mark>
-</html>
