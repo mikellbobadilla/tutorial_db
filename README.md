@@ -14,8 +14,12 @@
     color: var(--primary-title);
 }
 
+mark{
+    color: white;
+}
 </style>
 
+<mark>
 <h1 class="head-title">Steps to Work on Database</h1>
 
 <!-- # Steps to Work on Database -->
@@ -77,3 +81,5 @@ Allowing permissions a user:
 ```bash
 alter user <user_created> with superuser;
 ```
+
+<mark>
