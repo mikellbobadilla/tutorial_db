@@ -1,3 +1,4 @@
+<html>
 <style> 
 :root{
     --primary-title: #ffd369;
@@ -83,3 +84,4 @@ alter user <user_created> with superuser;
 ```
 
 <mark>
+</html>
