@@ -1,10 +1,8 @@
-<h1 style="color: #f05454;">Steps to Work on Database</h1>
+# Steps to Work on Database
 
-<!-- # Steps to Work on Database -->
+## Installation
 
-<h2 style="color: #21e6c1;">Installation</h2>
-
-<h3 style="color: #ffd369;">postgresql</h3>
+### postgresql
 
 **For Ubuntu 22-LTS**:
 
